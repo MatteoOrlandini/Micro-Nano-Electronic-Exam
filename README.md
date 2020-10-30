@@ -227,7 +227,8 @@
 
   # Prereqs
 
-  Virtuoso Cadence 6
+  * Matlab, Matlab Filter Designer
+  * Virtuoso Cadence 6
 
   # Results
 
