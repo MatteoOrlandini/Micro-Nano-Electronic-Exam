@@ -1,4 +1,4 @@
-  # Design of a sixth order elliptical low pass filter in cascade design with Switched Capacitor second stages order of type biquad
+  # Design of a sixth order elliptical low pass filter in cascade design with Switched Capacitor second order stages of type biquad
 
   # Introduction
 
@@ -34,7 +34,7 @@
 
   # Results
 
-  Following the steps in [wiki](https://github.com/MatteoOrlandini/Micro-Nano-Electronic-Exam/wiki/Design-of-a-sixth-order-elliptical-low-pass-filter-in-cascade-design-with-Switched-Capacitor-second-stages-order-of-type-biquad) it's possible to design a sixth order filter in Cadence with second order sections. The AC responses are shown below.
+  Following the steps in [wiki](https://github.com/MatteoOrlandini/Micro-Nano-Electronic-Exam/wiki/Design-of-a-sixth-order-elliptical-low-pass-filter-in-cascade-design-with-Switched-Capacitor-second-order-stages-of-type-biquad) it's possible to design a sixth order filter in Cadence with second order sections. The AC responses are shown below.
 
   ![](https://github.com/MatteoOrlandini/Micro-Nano-Electronic-Exam/blob/master/Relazione/Plot/real_first_stage.png)
 
